@@ -1,0 +1,3 @@
+[submodule "propaganda"]
+	path = propaganda
+	url = git@github.com:londonhackspace/propaganda.git
